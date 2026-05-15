@@ -1,0 +1,20 @@
+# Core model stack
+transformers>=4.50.0
+accelerate>=0.30.0
+sentencepiece
+protobuf
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# NER-specific evaluation
+nervaluate>=0.1.8
+seqeval>=1.2.2
+
+# IR-style ranking evaluation
+ranx>=0.3.5
+
+# Notebook display
+ipywidgets>=8.0.0
+tqdm>=4.66.0
