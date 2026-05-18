@@ -1,2 +1,9 @@
 modelTestVenv/
 englishraw.pdf
+finetuned_checkpoint/
+opf_workdir/
+privacy-filter/
+english_raw.pdf
+finetune.ipynb
+OpenAiPrivacyFilter.ipynb
+Testing_privacy.ipynb

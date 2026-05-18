@@ -1,0 +1,2 @@
+﻿LANG,DATASET,Raw Precision,Raw Recall,Raw F1,Norm Precision,Norm Recall,Norm F1,Token Precision,Token Recall,Token F1
+MixedDataset,FP_eng_new,0.0019,0.0042,0.0026,0.5341,0.6278,0.5771,0.7881,0.8836,0.8331

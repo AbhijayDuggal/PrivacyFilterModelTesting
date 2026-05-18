@@ -1,0 +1,2 @@
+﻿TRICK,No Of Rows,Span Precision,Span Recall,Span F1,Token Precision,Token Recall,Token F1,Hallucinated %,Missed %
+none,600,0.6268,0.4436,0.5195,0.8264,0.6285,0.714,11.33,45.67
